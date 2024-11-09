@@ -1,0 +1,17 @@
+# Entorno de Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de migración
+*/migrations/*
+
+# Archivos estáticos y de medios generados
+/staticfiles/
+/media/
+
+# Entorno virtual
+venv/
